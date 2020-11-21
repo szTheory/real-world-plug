@@ -2,3 +2,11 @@
 	path = apps/wobserver
 	url = git@github.com:shinyscorpion/wobserver.git
 	branch = master
+[submodule "apps/mini-hex-repo"]
+	path = apps/mini-hex-repo
+	url = git@github.com:wojtekmach/mini_repo.git
+	branch = master
+[submodule "apps/ex-doc-refined"]
+	path = apps/ex-doc-refined
+	url = git@github.com:shufo/ex_doc_refined.git
+	branch = master
