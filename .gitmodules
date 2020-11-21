@@ -1,0 +1,4 @@
+[submodule "apps/wobserver"]
+	path = apps/wobserver
+	url = git@github.com:shinyscorpion/wobserver.git
+	branch = master
