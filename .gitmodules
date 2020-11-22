@@ -10,3 +10,7 @@
 	path = apps/ex-doc-refined
 	url = git@github.com:shufo/ex_doc_refined.git
 	branch = master
+[submodule "apps/gender-detect"]
+	path = apps/gender-detect
+	url = git@github.com:alexfilatov/gender_detect.git
+	branch = master
